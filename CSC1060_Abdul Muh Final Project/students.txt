@@ -1,0 +1,5 @@
+karim boba, 100, 85,92,78,88
+najila quiam, 1002, 95, 89,91,94
+jhon jacob, 1003, 65, 70, 68, 72
+sayer karimier, 1004, 78, 82, 85, 80
+elise beth, 1005, 60, 55, 62, 58

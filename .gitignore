@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.pdb
+*.ilk
+*.obj
+*.idb
+*.exe
+*.tlog
+*.ipch
+*.log
+
+# macOS
+.DS_Store
